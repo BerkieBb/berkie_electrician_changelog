@@ -1,6 +1,5 @@
-# 1.0.1
+# 1.0.2
 
-* Added taze feature in the config, if this option is turned on, the player will be tazed when they fail the minigame.
-* Added animation options to the ped spawner.
-* Fixed the ped spawner not working.
-* The config is more detailed now.
+* Fixed the issue where if you did a job again, it would already be completed.
+* Fixed the issue where the zone would not stop you from interacting with it after you've completed the job and haven't left the one.
+* Reduced taze damage.
