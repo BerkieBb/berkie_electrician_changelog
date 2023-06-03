@@ -1,5 +1,3 @@
-# 1.0.2
+# 1.0.3
 
-* Fixed the issue where if you did a job again, it would already be completed.
-* Fixed the issue where the zone would not stop you from interacting with it after you've completed the job and haven't left the one.
-* Reduced taze damage.
+* Fixed the issue where the client doesn't load because of load order
